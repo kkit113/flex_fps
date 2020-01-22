@@ -62,4 +62,5 @@ class FpsSubItem {
 // 02 FPS ID
 // 03 Mobile phone no
 // 04 email address
+// 05 expiry datetime (yyMMddhhmmss)
 // 06 (06011) allow edit
